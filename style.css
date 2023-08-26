@@ -1,0 +1,8 @@
+.chart-container {
+    width: 80%;
+    margin: auto;
+}
+.chart-container>h1{
+    width: 100%;
+    text-align: center;
+}
